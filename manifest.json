@@ -42,6 +42,16 @@
 				},
 				"example": "/owntracks",
 				"default": "/owntracks"
+			},
+			{
+				"name": "user",
+				"type": "user",
+				"ask": {
+					"en": "Choose an user for Owntracks",
+					"fr": "Choisissez un utilisateur pour Owntracks"
+				},
+				"example": "foo",
+				"default": ""
 			}
 		]
 	}
